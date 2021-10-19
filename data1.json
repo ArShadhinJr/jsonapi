@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "nameClass": "Jhon Edan",
     "fee": 2500,
@@ -8,4 +7,3 @@
     "totalSeet": 40,
     "position": "Neurologist"
   }
-]
