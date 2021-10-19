@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "nameClass": "Jhon Edan",
+      "fee": 2500,
+      "details": "Our Success ",
+      "img": "https://i.ibb.co/xm4gJQF/D1.jpg",
+      "totalSeet": 40,
+      "position": "Neurologist"
+    },
+    {
+      "id": 2,
+      "nameClass": "Helia Gan",
+      "fee": 2600,
+      "details": "Opthalmologist",
+      "img": "https://i.ibb.co/StRZShh/D2.jpg",
+      "totalSeet": 40,
+      "position": "Eye specialist"
+    },
+    {
+      "id": 3,
+      "nameClass": "Rony Stain",
+      "fee": 2500,
+      "details": "Cardiologist",
+      "img": "https://i.ibb.co/CVKPsqr/d3.jpg",
+      "totalSeet": 40,
+      "position": "Cardiologist"
+    },
+    {
+      "id": 4,
+      "nameClass": "Alix Tomas",
+      "fee": 3100,
+      "details": "Dentist",
+      "img": "https://i.ibb.co/tcQjDFf/D4.jpg",
+      "totalSeet": 40,
+      "position": "Dentist"
+    },
+    {
+      "id": 5,
+      "nameClass": "Folar Ban",
+      "fee": 3100,
+      "details": "Pediatrician",
+      "img": "https://i.ibb.co/DfFhVkJ/D5.jpg",
+      "totalSeet": 40,
+      "position": "Pediatrician"
+    },
+    {
+      "id": 6,
+      "nameClass": "Ronk Tec",
+      "fee": 3100,
+      "details": "Neurologist",
+      "img": "https://i.ibb.co/pyWrBvG/D6.jpg",
+      "totalSeet": 40,
+      "position": "Neurologist"
+    }
+  ]
