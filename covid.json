@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1, 
+        "heading": "Visitors during COVID-19", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/Visitors%20during%20COVID-19.jpg?itok=xR_2GsGb", 
+        "details": "Currently, no visitors are allowed to any Royal Melbourne Hospital sites (updated 11 October 2021). " 
+    }, 
+    {
+        "id": 2, 
+        "heading": "Screening clinic and results", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/Screening%20clinics%20and%20results.jpg?itok=VPCno8TR", 
+        "details": "Our COVID-19 screening clinic at 300 Grattan St will close on Monday 27 September 2021. Find out where to get tested. " 
+    }, 
+    {
+        "id": 3, 
+        "heading": "COVID-19 vaccination program", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/COVID-19%20vaccination%20program.jpg?itok=ukhNkGyH", 
+        "details": "The Royal Melbourne Hospital is operating one of Victoria’s high-volume COVID-19 Vaccination Centres, located at the Melbourne Convention and Exhibition Centre." 
+    }, 
+    {
+        "id": 4, 
+        "heading": "Outpatients appointments and Telehealth", 
+        "img":"https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/Outpatients%20appointments%20and%20Telehealth.jpg?itok=Uptjgnwi", 
+        "details": "As part of our response to COVID-19 we have made some changes to our outpatient appointments. This includes advice about people who are currently in quarantine and still require medical care including outpatient and imaging appointments."
+    }, 
+    {
+        "id": 5, 
+        "heading": "Frequently asked questions about COVID-19", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/Frequently%20asked%20questions%20about%20COVID-19.jpg?itok=562urnfa", 
+        "details": "We have compiled a number of answers about what COVID-19 is, visiting the hospital and how to reduce the spread within the community."
+    }, 
+    {
+        "id": 6, 
+        "heading": "Screening for COVID-19 before your surgery or procedure", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/Coming%20to%20hospital%20for%20surgery%20what%20to%20expect.jpg?itok=bsidocGg", 
+        "details": "Under the current Department of Health guidelines, all patients require COVID-19 screening 72 hours before elective surgery and some procedures. This will help ensure staff have the right protocols in place to care for you safely."
+    }, 
+    {
+        "id": 7, 
+        "heading": "COVID-19 information in community languages", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/COVID-19%20information%20in%20community%20languages.jpg?itok=qyIlY-jp", 
+        "details": "View our COVID-19 informative videos in multiple languages."
+    }, 
+    {
+        "id": 8, 
+        "heading": "Wearing a mask", 
+        "img": "https://www.thermh.org.au/sites/default/files/styles/medium/public/tiles/Wearing%20a%20mask.jpg?itok=Cdc1eu26", 
+        "details": "Our video guide to wearing masks - how to put them on and take them off properly."
+    }
+]
